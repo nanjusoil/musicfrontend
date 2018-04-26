@@ -4,53 +4,53 @@ export const page1 = [
   {
     img: `${assets}/image/icon/g2-c94ef.svg`,
     href: `${base}zh-cn/g2/3.x/index.html`,
-    title: 'G2',
-    description: ' 是以数据为驱动，具有高度的易用性和扩展性的可视化图形语法。',
+    title: '熱門音樂',
+    description: ' 每日更新熱門排行榜音樂庫。',
   },
   {
     img: `${assets}/image/icon/g6-b4554.svg`,
-    title: 'G6',
+    title: '熱門曲風',
     href: `${base}zh-cn/g6/1.x/index.html`,
-    description: ' 是一套便捷、动态和富有交互的流程图和关系分析的图表库。',
+    description: ' 不知道要聽什麼嗎？選擇喜歡的曲風就對了。',
   },
   {
     img: `${assets}/image/icon/f2-d360c.svg`,
-    title: 'F2',
+    title: '自訂播放清單',
     href: `${base}zh-cn/f2/3.x/index.html`,
-    description: ' 是一套精简、高性能、易扩展的的移动端图表库。',
+    description: ' 精準記錄喜歡的歌曲。',
   },
 ];
 
 export const page3 = [
   {
     img: `${assets}/image/home/features-simple-9617c.svg`,
-    title: '简单方便',
-    description: '从数据出发，仅需几行代码就可以轻松获得想要的图表展示效果。',
+    title: '簡單方便',
+    description: '開放API，可以在各大平台上播放。',
   },
   {
     img: `${assets}/image/home/features-professional-1c6d1.svg`,
-    title: '专业可靠',
-    description: '大量产品实践之上，提供绘图引擎，完备图形语法以及专业设计规范。',
+    title: '合法曲庫',
+    description: '曲庫內所有歌曲皆取得合法授權。',
   },
   {
     img: `${assets}/image/home/features-powerful-243e3.svg`,
-    title: '无限可能',
-    description: '任何图表，都可以基于图形语法灵活绘制，满足你无限的创意。',
+    title: '持續精進',
+    description: '對我們的歌單或曲庫不滿意嗎？快回饋給我們！',
   },
 ];
 
 export const page4 = [
   {
-    name: '陈为',
-    profile: '浙江大学计算机学院 CAD & CG 国家重点实验室教授 可视化专家',
-    avatar: 'https://os.alipayobjects.com/rmsportal/CcFeLxXurbQmwrT.jpg',
-    comment: '在多年可视化设计与开发的积累基础上，蚂蚁金服团队推出了 AntV 产品，这是工业界在基础可视化语法与实践方面发出的最强声音，也是工业界与学术界一道推进可视化研发进展的最佳利器。',
+    name: '柴柴',
+    profile: '在家擔任柴犬',
+    avatar: 'https://i.imgur.com/EMgn5dX.jpg',
+    comment: '自從用了jgplayer聽音樂，排便順暢，全身的狗毛都蓬鬆了起來。',
   },
   {
-    name: '林峰',
-    profile: '爱烹饪的数据可视化攻城狮',
-    avatar: 'https://zos.alipayobjects.com/rmsportal/wtkIALmYDSmOIiAalkdv.jpg',
-    comment: 'G2 是面粉，ECharts 是面条，皆微小但美好，因小食材怀大梦想，助力共筹东方巨龙崛起之盛宴，迎四海饕客。',
+    name: '阿貓',
+    profile: '',
+    avatar: 'https://i.imgur.com/MNJcnuJ.jpg',
+    comment: '每天回家就是打開jgplayer聽喵電感應',
   },
 ];
 
